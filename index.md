@@ -1,6 +1,6 @@
 # Methodology Assignment 4, Task 2
 Name: Joyce Lu, Email: jol072@ucsd.edu\
-Section A08, Mentor: Zhiting Hu
+Section A08, Mentor: Zhiting Hu, Kun Zhou
 
 **1. What is the most interesting topic covered in your domain this quarter?**\
 The most interesting topic covered in my domain this quarter was latent reasoning in multimodal large language models, which is how models can develop internal visual imagination during reasoning. I read papers such as “Latent Sketchpad: Sketching Visual Thoughts to Elicit Multimodal Reasoning In MLLMs," which explored how models can produce internal sketches to visualize reasoning steps, similar to how humans use "mental imagery" when solving a complex multimodal problem. I found this interesting because it allows models to imagine and plan through internal visual processes in order to solve advanced multimodal problems such as spatial reasoning and navigation tasks. This idea also connects with human cognitive patterns of visual imagination and problem solving.
